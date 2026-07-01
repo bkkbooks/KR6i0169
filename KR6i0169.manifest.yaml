@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6i0169/v1
+canonical_location: https://kanripo.org/bkk/KR6i0169/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 盧至長者因緣經
+  identifiers:
+    alt_id:
+    - T14n0539
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0539.xml
+    old_id: T14n0539
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 宮
+  label: 宮
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0169_000.yaml, hash: 'sha256:69e35c567d11ba38e2ffff22147b078129bb90e78fc0718648ef0e01e3778f0a'}
+  - {seq: 1, filename: KR6i0169_001.yaml, hash: 'sha256:522a17de1f43e3f39b8a855d8b9a0315edbdfc75ec72903e5be2c0adf74fea31'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0169_001.markers.yaml, hash: 'sha256:4b18ef08433285765c6702b18ec2a61dc9a0e30ed5767a8cf395c465a24a00ef'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0169_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4415
+  label: 盧至長者因緣經
+  type: juan
+  level: 1
+hash: sha256:1d2b4a6ca3e8aca796ca2889d9bfac3fd4428e2a283ebdb50439b45bf58d04e7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

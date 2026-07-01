@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0169/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 盧至長者因緣經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0539.xml
+    old_id: T14n0539
+hash: sha256:69e35c567d11ba38e2ffff22147b078129bb90e78fc0718648ef0e01e3778f0a
