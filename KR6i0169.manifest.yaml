@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0169_000.yaml, hash: 'sha256:69e35c567d11ba38e2ffff22147b078129bb90e78fc0718648ef0e01e3778f0a'}
-  - {seq: 1, filename: KR6i0169_001.yaml, hash: 'sha256:522a17de1f43e3f39b8a855d8b9a0315edbdfc75ec72903e5be2c0adf74fea31'}
+  - {seq: 1, filename: KR6i0169_001.yaml, hash: 'sha256:7923a19ea9eee29e407f16d780758b2010fb56ca08878f0845d05d08881b1870'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0169_001.markers.yaml, hash: 'sha256:4b18ef08433285765c6702b18ec2a61dc9a0e30ed5767a8cf395c465a24a00ef'}
+  - {seq: 0, role: markers, filename: assets/KR6i0169_000.markers.yaml, hash: 'sha256:4b3adb4ae746c28d7d7e91b6cc3feb80b80ad2a991e6d0b9c6fabf9b4b19b047'}
+  - {seq: 1, role: markers, filename: assets/KR6i0169_001.markers.yaml, hash: 'sha256:7fe6185676f611ea9ff1446d67bcd85012c0d01401e52bcbf81d3a0013b35809'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 盧至長者因緣經
   type: juan
   level: 1
-hash: sha256:1d2b4a6ca3e8aca796ca2889d9bfac3fd4428e2a283ebdb50439b45bf58d04e7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a05c162e13ad98d9677107f6117b9d3bfab640655e411cdd898cf56b41776485
